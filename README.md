@@ -1,4 +1,4 @@
-# Cycle1-NS2-Experiment-3
+# Cycle1-NS2-Experiment-2
 ## IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 # AIM:
 ## To implement Stop and Wait protocol using NS2 program.
